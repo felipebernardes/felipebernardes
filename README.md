@@ -5,7 +5,7 @@ I'm Felipe Bernardes, a front end specialist, currently working at [Chameleon](h
 📆 You can [book a chat with me](https://calendly.com/felipebernardes/15min) if you'd like -- I'm open to talk about:
 - Speaking/Presenting at conferences;
 - (Free) career/technical mentorship;
-- Music, Gangster TV series or movies, Photography;
+- Music, Photography;
 - Anything else!
 
 🔗 For more info, please check [my website](https://felipebernardes.github.io/).
