@@ -1,11 +1,11 @@
-### Hi there 👋
+### 👋 Hello!
 
-I'm Felipe Bernardes, a front end specialist, currently working at [Chameleon](https://trychameleon.com), helping companies **engage** and offer **better experiences** to its end users.
+I'm Felipe Bernardes, a Front End Specialist with 10+ years of experience in Sofware Development and also a solid background of full-stack development. ([full resume.pdf](https://felipebernardes.github.io/felipe-bernardes-resume.pdf))
 
-📆 You can [book a chat with me](https://calendly.com/felipebernardes/15min) if you'd like -- I'm open to talk about:
-- Speaking/Presenting at conferences;
-- (Free) career/technical mentorship;
-- Music, Photography;
-- Anything else!
+Feel free to reach out to talk about:
+- (free) career/technical mentorship;
+- music, photography, architeture;
+- tech meetups & conferences;
+- anything else!
 
-🔗 For more info, please check [my website](https://felipebernardes.github.io/).
+🔗 For further info, please check [my website](https://felipebernardes.github.io/).
